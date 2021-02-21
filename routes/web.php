@@ -14,7 +14,7 @@ use App\Http\Controllers\ContactController;
 |
 */
 
-//router biasa
+//route biasa
 Route::get('/', function () {
     return redirect('https://www.educastudio.com');
  
